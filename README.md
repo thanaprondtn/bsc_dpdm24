@@ -11,3 +11,13 @@ Homework|แบ่งกลุ่ม/New|20%|
 Quiz|ถาม-ตอบในห้อง| 5%|
 GitHub|ความสวยงามและถูกต้อง| 5%|
  Total| = | 100%|
+
+# Chapter 1 Introduction to Data Mining
+* Lecture >>
+* Code >>
+# Chapter 2 Getting to Know Your Data
+* Lecture >>
+* Code >>
+# Chapter 3 Data Preprocessing
+* Lecture >>
+* Code >>
